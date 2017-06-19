@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="iv" type="id" />
+    <item name="iv2" type="id" />
+    <item name="firstname" type="id" />
+    <item name="secondname" type="id" />
+    <item name="firsttimes" type="id" />
+    <item name="secondtimes" type="id" />
+    <item name="lv" type="id" />
+</resources>
